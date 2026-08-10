@@ -1,30 +1,30 @@
-# sql-dev-projects
-This repository contains SQL projects demonstrating database design, complex queries, stored procedures, and data manipulation techniques across various database management systems.
+# 🗄️ SQL Development Projects
 
-Technologies Used
+A collection of SQL projects and database exercises documenting my
+progression in relational database design, querying, data manipulation,
+reporting, and database development.
 
-Microsoft SQL Server
-MySQL
-PostgreSQL
-Database design and normalization
-Performance optimization
-Stored procedures and functions
-Triggers and events
-Reporting
+## 🧠 Areas of Practice
 
-Repository Structure
-Projects are organized by database system or project type. Each folder contains SQL scripts, schema definitions, and relevant documentation.
+- Database design
+- Relational modelling
+- Normalisation
+- SQL queries
+- Joins and aggregations
+- Stored procedures
+- Views
+- Functions
+- Transactions
+- Reporting
+- Query optimisation
 
-Usage
-Each project folder contains:
+## 🛠️ Technologies
 
-Database creation scripts
-Schema definitions
-Sample queries
-Documentation on purpose and usage
+- Microsoft SQL Server
+- MySQL
+- PostgreSQL
 
-To use these scripts:
+## 📂 Projects
 
-Navigate to the specific project folder
-Review the README or documentation specific to that project
-Execute the scripts using your preferred database management tool
+Projects will be added as I develop more database-focused applications
+and data engineering workflows.
